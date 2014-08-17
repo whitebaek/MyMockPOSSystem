@@ -1,0 +1,5 @@
+D:\My Document\Visual Studio 2013\Projects\MyMockPOSSystem\MyLib\obj\Debug\MyLib.csprojResolveAssemblyReference.cache
+D:\My Document\Visual Studio 2013\Projects\MyMockPOSSystem\MyLib\bin\Debug\MyLib.dll
+D:\My Document\Visual Studio 2013\Projects\MyMockPOSSystem\MyLib\bin\Debug\MyLib.pdb
+D:\My Document\Visual Studio 2013\Projects\MyMockPOSSystem\MyLib\obj\Debug\MyLib.dll
+D:\My Document\Visual Studio 2013\Projects\MyMockPOSSystem\MyLib\obj\Debug\MyLib.pdb

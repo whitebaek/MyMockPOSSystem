@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMockPOSSystem", "MyMockPOSSystem\MyMockPOSSystem.csproj", "{B88EA3EE-ECB3-4301-A083-80FB0E269BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{F95A2F28-00E1-4CBD-A40A-922AAC559B60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B88EA3EE-ECB3-4301-A083-80FB0E269BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B88EA3EE-ECB3-4301-A083-80FB0E269BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B88EA3EE-ECB3-4301-A083-80FB0E269BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B88EA3EE-ECB3-4301-A083-80FB0E269BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F95A2F28-00E1-4CBD-A40A-922AAC559B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F95A2F28-00E1-4CBD-A40A-922AAC559B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F95A2F28-00E1-4CBD-A40A-922AAC559B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F95A2F28-00E1-4CBD-A40A-922AAC559B60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

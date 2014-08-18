@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace MyLib.Panel
 {
-    public class HallPanel : AbstractPanel
+    public class KitchenPanel : AbstractPanel
     {
+        public KitchenPanel(string sName) : base(sName) { }
 
-        public HallPanel(string sName) : base(sName) { }
-        public HallPanel(string sName, decimal dToitalAmount) : base(sName, dToitalAmount) { }
+        public KitchenPanel(string sName, decimal dToitalAmount) : base(sName, dToitalAmount) { }
 
         public override decimal GetCurrentTotalAmount()
         {
@@ -21,8 +21,9 @@ namespace MyLib.Panel
         public override void Update(decimal dAmount)
         {
             _dTotalAmount += dAmount;
+
             //Console.WriteLine("Changes on sales");
-            Console.WriteLine("Hall - TotalPrice:{0}", CurrentTotalPrice);
+            Console.WriteLine("Kitchen - TotalPrice:{0}", CurrentTotalPrice);
         }
     }
 }

@@ -47,8 +47,10 @@
     <Compile Include="Item\ItemA.cs" />
     <Compile Include="Item\ItemB.cs" />
     <Compile Include="Item\ItemDecorator.cs" />
+    <Compile Include="Panel\AbstractPanel.cs" />
     <Compile Include="Panel\HallPanel.cs" />
     <Compile Include="Panel\IPanel.cs" />
+    <Compile Include="Panel\KitchenPanel.cs" />
     <Compile Include="Sale\ISale.cs" />
     <Compile Include="Sale\Sale.cs" />
     <Compile Include="Utils.cs" />
